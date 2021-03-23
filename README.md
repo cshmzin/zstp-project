@@ -1,5 +1,4 @@
-# -
-关于知识图谱的相关项目
+# 知识图谱相关项目
 ### Neo4j与python实验测试
 <!-- wp:heading {"level":3} -->
 <h3>安装py2neo</h3>

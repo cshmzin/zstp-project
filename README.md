@@ -32,7 +32,7 @@
 <figure class="wp-block-image size-large is-resized"><img src="https://ripshun.com/wp-content/uploads/2021/03/503ZZDL5J3IL2BL04EH.png" alt="" class="wp-image-467" width="484" height="490"/></figure>
 <!-- /wp:image -->
 
-# -------------------------------------------------------------------
+# ----------------------------------------------------------
 
 ### 项目一. 医疗问答系统
 <!-- wp:heading {"level":3} -->

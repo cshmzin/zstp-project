@@ -60,66 +60,6 @@
 <figure class="wp-block-image size-large is-resized"><img src="https://ripshun.com/wp-content/uploads/2021/03/jainjie-1024x769.png" alt="" class="wp-image-475" width="662" height="496"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:heading {"level":3} -->
-<h3>安装py2neo</h3>
-<!-- /wp:heading -->
+![image](https://user-images.githubusercontent.com/38173291/112132441-97891280-8c05-11eb-96ee-01e32198dda1.png)
+![image](https://user-images.githubusercontent.com/38173291/112132456-9ce65d00-8c05-11eb-8fc8-ab6998741d21.png)
 
-<!-- wp:paragraph -->
-<p>为了让python与Neo4j相连，需要安装python中的py2neo库：</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>pip3 install py2neo</code></pre>
-<!-- /wp:code -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>开始实验测试</h3>
-<!-- /wp:heading -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>本次实验测试主要建立一个有关（购买方，价格，销售方）3元关系的数据库，数据库存储在表格之中。</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>如图所示：</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":467,"width":484,"height":490,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://ripshun.com/wp-content/uploads/2021/03/503ZZDL5J3IL2BL04EH.png" alt="" class="wp-image-467" width="484" height="490"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":3} -->
-<h3>安装py2neo</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>为了让python与Neo4j相连，需要安装python中的py2neo库：</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:code -->
-<pre class="wp-block-code"><code>pip3 install py2neo</code></pre>
-<!-- /wp:code -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3>开始实验测试</h3>
-<!-- /wp:heading -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>本次实验测试主要建立一个有关（购买方，价格，销售方）3元关系的数据库，数据库存储在表格之中。</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>如图所示：</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":467,"width":484,"height":490,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://ripshun.com/wp-content/uploads/2021/03/503ZZDL5J3IL2BL04EH.png" alt="" class="wp-image-467" width="484" height="490"/></figure>
-<!-- /wp:image -->
